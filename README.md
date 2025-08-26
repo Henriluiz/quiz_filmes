@@ -10,8 +10,15 @@ O projeto foi feito para praticar **lógica de programação**, **formulários e
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/xampp.png" width="50"/>
 </p>
+
+---
+
+## 📌 Funcionalidades
+- Perguntas e respostas sobre filmes 🎥  
+- Feedback de acertos e erros ✅❌  
+- porcentagem de pontuação 🏆  
+- Tela de resultado final  
 
 ---
 
