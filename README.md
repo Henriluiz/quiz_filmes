@@ -23,7 +23,6 @@ O projeto foi feito para praticar **lógica de programação**, **formulários e
 ---
 
 ## 📷 Prints do Projeto
-> Espaço reservado para imagens do site
 
 <p align="center">
   <img src="./prints/inicial.png" width="300"/>
