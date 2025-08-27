@@ -21,7 +21,7 @@
             <img src="./img/p8.webp" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta7" value="Stanley Martin Lieber"> Stanley Martin Lieber (Stan lee)
+                    <input type="radio" name="pergunta7" value="Stanley Martin Lieber" required> Stanley Martin Lieber (Stan lee)
                 </label>
 
                 <label>

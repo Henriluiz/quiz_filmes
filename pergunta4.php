@@ -21,7 +21,7 @@
             <img src="./img/p4.jpg" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta4" value="A Chegada"> A Chegada
+                    <input type="radio" name="pergunta4" value="A Chegada" required> A Chegada
                 </label>
 
                 <label>
@@ -29,7 +29,7 @@
                 </label>
 
                 <label>
-                    <input type="radio" name="pergunta4" value="la la land: cantando estações"> La La Land: cantando estações
+                    <input type="radio" name="pergunta4" value="La La Land: Cantando estações"> La La Land: Cantando estações
                 </label>
 
                 <label>

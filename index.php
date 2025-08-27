@@ -8,8 +8,8 @@
 	<body>
 		<form action="pergunta1.php" method="post">
             <h1>QUIZ SOBRE FILMES!</h1>
-			<p>Digite o seu nome: <input type="text" name="nome"></p>
-            <p>Digite o seu sobrenome: <input type="text" name="sobrenome"></p>
+			<p>Digite o seu nome: <input type="text" name="nome" required></p>
+            <p>Digite o seu sobrenome: <input type="text" name="sobrenome" required></p>
 			<p><input type="submit" value="Próximo"></p>
 		</form>
 	</body>

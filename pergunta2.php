@@ -22,7 +22,7 @@
                 <img src="./img/p2.jpeg" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta2" value="Edward Mãos de Tesoura"> Edward Mãos de Tesoura
+                    <input type="radio" name="pergunta2" value="Edward Mãos de Tesoura" required> Edward Mãos de Tesoura
                 </label>
 
                 <label>

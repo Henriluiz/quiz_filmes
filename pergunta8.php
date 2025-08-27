@@ -21,19 +21,19 @@
             <img src="./img/p7.jpg" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta8" value="uma hora vivida localmente equivale a quatro anos na Terra"> Uma hora vivida localmente equivale a quatro anos na Terra
+                    <input type="radio" name="pergunta8" value="Uma hora vivida localmente equivale a quatro anos na Terra" required    > Uma hora vivida localmente equivale a quatro anos na Terra
                 </label>
 
                 <label>
-                    <input type="radio" name="pergunta8" value="duas horas vivida localmente equivale a cinco anos na Terra"> Duas hora vivida localmente equivale a cinco anos na Terra
+                    <input type="radio" name="pergunta8" value="Duas horas vivida localmente equivale a cinco anos na Terra"> Duas hora vivida localmente equivale a cinco anos na Terra
                 </label>
 
                 <label>
-                    <input type="radio" name="pergunta8" value="duas horas vivida localmente equivale a seis anos na Terra"> Duas hora vivida localmente equivale a seis anos na Terra
+                    <input type="radio" name="pergunta8" value="Duas horas vivida localmente equivale a seis anos na Terra"> Duas hora vivida localmente equivale a seis anos na Terra
                 </label>
 
                 <label>
-                    <input type="radio" name="pergunta8" value="uma hora vivida localmente equivale a sete anos na Terra"> Uma hora vivida localmente equivale a sete anos na Terra
+                    <input type="radio" name="pergunta8" value="Uma hora vivida localmente equivale a sete anos na Terra"> Uma hora vivida localmente equivale a sete anos na Terra
                 </label>
             </div>
             <p><input type="submit" value="Próximo"></p>

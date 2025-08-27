@@ -24,42 +24,24 @@
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     text-align: center;
     width: 450px;
-    caret-color: transparent; /* Remove cursor piscando (Muito Útil)*/
   }
   
-  /* Alternativas */
-  .alternativas {
-    display: grid;
-    grid-template-columns: 200px 200px;
-    justify-content: center;
-    gap: 10px;
-    margin: 15px;
-    caret-color: transparent; /* Remove cursor piscando (Muito Útil)*/
-  }
-
-  label {
-    background-color: #FFDA7A;
-    border: 2px solid #855F00;
-    border-radius: 15px;
-    padding: 10px;
-  }
-
-  label:hover {
-    background-color: #DDB54D;
-  }
- 
-  /* Personalização das alternativas */
-  input[type=radio], input[type=checkbox]  {
-    display: none;
-  }
-  /* input[type=radio]:checked {
-    width: 10%;
-    height: 15px;
-  } */
-  label:has(input[type="radio"]:checked) {
-    background: #BE9428;
+  .saudacao {
+    font-size: 23px;
     color: black;
-    border-color: #855F00;
+  }
+
+  .acertos {
+    background-color: #D7A422;
+    width: 50%;
+    margin: auto auto 20px;
+    border: 4px solid #855F00;
+    border-radius: 12px;
+    text-align: center;
+  }
+
+  .resultado_alt {
+    text-align: left;
   }
 
   /* Texto */

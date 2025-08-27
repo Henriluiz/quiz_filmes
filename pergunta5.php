@@ -1,7 +1,7 @@
 <?php
 	$p4 = $_POST["pergunta4"];
 	session_start();
-	if ($p4 == "la la land: cantando estações") {
+	if ($p4 == "La La Land: Cantando estações") {
         $_SESSION["pontos"] += 1;
         $_SESSION["p4"] = $p4." "."✔";    
     } else {
@@ -21,7 +21,7 @@
             <img src="./img/p5.webp" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta5" value="Superman"> Superman
+                    <input type="radio" name="pergunta5" value="Superman" required> Superman
                 </label>
 
                 <label>

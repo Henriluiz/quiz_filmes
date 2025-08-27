@@ -21,7 +21,7 @@
             <img src="./img/p6.jpg" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta6" value="Protagonistas"> Protagonistas
+                    <input type="radio" name="pergunta6" value="Protagonistas" required> Protagonistas
                 </label>
 
                 <label>

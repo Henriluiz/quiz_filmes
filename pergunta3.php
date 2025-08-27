@@ -22,7 +22,7 @@
             <img src="./img/p3.jpeg" alt="">
             <div class="alternativas">
                 <label>
-                    <input type="radio" name="pergunta3" value="1997"> 1997
+                    <input type="radio" name="pergunta3" value="1997" required> 1997
                 </label>
 
                 <label>

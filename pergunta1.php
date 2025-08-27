@@ -20,13 +20,13 @@
 			<br>
 			<div class="alternativas">
 				<label>
-					<input type="radio" name="pergunta1" value="Aaron Paul">Aaron Paul
+					<input type="radio" name="pergunta1" value="Aaron Paul" required>Aaron Paul
 				</label>
 		
 				<label>
 					<input type="radio" name="pergunta1" value="Jason Bateman"> Jason Bateman
 				</label>
-		
+
 				<label>
 					<input type="radio" name="pergunta1" value="Kevin Hart"> Kevin Hart
 				</label>
