@@ -26,8 +26,8 @@ O projeto foi feito para praticar **lógica de programação**, **formulários e
 
 <p align="center">
   <img src="./prints/inicial.png" width="300"/>
-  <img src="./prints/p1.png" width="300"/>
-  <img src="./prints/p8.png" width="300"/>
+  <img src="./prints/p1_2.png" width="300"/>
+  <img src="./prints/p4.png" width="300"/>
 </p>
 
 ---
